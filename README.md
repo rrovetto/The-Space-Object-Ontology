@@ -21,7 +21,7 @@ Seeking opportunities to sustainably develop this long-standing project. Seeking
 * a employment or job
 ...to realize the concept
 
-###Historical Context###: The overall concept has been a pursuit since 2011 (see my orbital debris ontology repository) (Documentation, including references, verifying this five-year ideation is available upon request). Since then I've been seeking a sustainable opportunity (employment, PhD post, research position, etc.) to work on, develop, and implement this with others. I have developed a number of papers on this to make it a Phd project. Interested potential co-authors are welcome to contact me.
+##Historical Context##: The overall concept has been a pursuit since 2011 (see my orbital debris ontology repository) (Documentation, including references, verifying this five-year ideation is available upon request). Since then I've been seeking a sustainable opportunity (employment, PhD post, research position, etc.) to work on, develop, and implement this with others. I have developed a number of papers on this to make it a Phd project. Interested potential co-authors are welcome to contact me.
 
 ##Contact##
 Ontology creator: Robert J. Rovetto, Univ.Maryland Alum (2007), SUNY Alum (2011)
