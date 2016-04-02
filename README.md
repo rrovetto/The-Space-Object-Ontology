@@ -19,7 +19,6 @@ Seeking opportunities to sustainably develop this long-standing project. Seeking
 * partners/colleagues/co-workers/collaborators
 * PhD or MS fellowship, or 
 * a employment or job
-* 
 ...to realize the concept
 
 ##Historical Context## 
