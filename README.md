@@ -26,3 +26,4 @@ Email: rrovetto@terpalum.umd.edu
 
 ## Rights
 © 2012-2020, Robert John Rovetto. All rights reserved.
+Not authorized for commercial use.
