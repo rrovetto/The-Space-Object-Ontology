@@ -1,4 +1,9 @@
 # The Space Object Ontology (SOO)
+
+## Author
+Robert J. Rovetto
+
+## About
 The SOO is an ontology of objects in the space environment beyond Earths atmosphere. The minimum scope/focus is on objects in orbit of Earth. It represents different sorts of space object, such as orbital debris, asteroids, spacecraft, etc., and the relationships between them. Because the space situational awareness community focuses on the environment surrounding Earth and therefore of objects in that enviornment, this ontology (or its classes) may be part of (or imported into) the broader Space Situational Awareness Domain Ontology (SSAO). Alternatively, each taking on a narrow scope, may be part of the broder Orbital Space Environment Domain Ontology (OSEDO) or Orbital Space Ontology (see my github repository for working conceptualizations, and [1][2][3]). (NOTE: These are domain delineations and modular architectures under consideration; as such, this ontology is subject to revision.)  If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 
 ## Status
