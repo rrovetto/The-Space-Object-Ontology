@@ -2,10 +2,9 @@
 An ontology describing objects in the outer space environment.
 ## Description
 See also the Ontology Requirements Specification Document (purchase link coming soon).
-
+If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 ### Scope
-
-The SOO is an ontology of objects in the space environment beyond Earths atmosphere, i.e. exoatmospheric space environments. The minimum scope/focus is on objects in orbit of Earth. It represents different sorts of space object, such as orbital debris, asteroids, spacecraft, etc., and the relationships between them. Because the space situational awareness community focuses on the environment surrounding Earth and therefore of objects in that enviornment, this ontology (or its classes) may be part of (or imported into) the broader Space Situational Awareness Domain Ontology (SSAO). Alternatively, each taking on a narrow scope, may be part of the broder Orbital Space Environment Domain Ontology (OSEDO) or Orbital Space Ontology (see my github repository for working conceptualizations, and [1][2][3]). (NOTE: These are domain delineations and modular architectures under consideration; as such, this ontology is subject to revision.)  If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
+The SOO is an ontology of objects beyond Earths atmosphere, but more generally in exoatmospheric space environments, i.e., interstellar, interplanetary, and otherwise astronomical space which is colloqually called 'outer space'. The minimum scope of the ontology is objects in Earth orbit. It represents different sorts of space object, such as orbital debris, asteroids, spacecraft, etc., and the relationships between them. It does so by providing a set of categories and formal relations. Because the space situational awareness (SSA) / space domain awareness community has thusfar focused primiarly on the orbital environment surrounding Earth and therefore of objects in that enviornment, this ontology (or its classes) may be part of (or imported into) the broader [Space Situational Awareness Domain Ontology](https://github.com/rrovetto/space-situational-awareness-domain-ontology) (SSAO). Alternatively, if each takes on a narrow scope, it may be part of the broder [Orbital Space Environment Ontology](https://github.com/rrovetto/Orbital-Space-Environment-Ontology) or [Orbital Space Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project) or the [Astronommical Environment Ontology](https://github.com/rrovetto/Astronomical-Environment-Ontology) (see my github repository for working conceptualizations, and [1][2][3]). NOTE: These domain delineations and modular architectures are under consideration; as such, this ontology is subject to revision. 
 
 ### Architecture
 A self-contained module, usable by itself, but also part of the author's wider [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies and other knowledge organization systems.
@@ -23,7 +22,6 @@ As an unfunded personal project, you can help by offerring financial support, em
   * [PayPal](https://tinyurl.com/donateViaPayPalrr)
   * [Patreon](https://tinyurl.com/y9qegjsh)
   * [GoGetFunding](https://gogetfunding.com/?p=6893352)
-
 
 ## Publications
 * [1] “An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 
